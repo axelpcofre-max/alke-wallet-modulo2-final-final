@@ -32,6 +32,4 @@ Axel Poblete
 
 Perfil: Ingeniero Civil Industrial m. Informática (UFRO).
 
-Empresa: Fundador de Elevamax Solutions Online.
-
 Formación Actual: Becario SENCE/INFOCAL en el programa de Desarrollo Full Stack.
